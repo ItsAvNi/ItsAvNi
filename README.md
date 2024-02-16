@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsAvNi
-- 👀 I’m interested in monitors, bots and web scraping
-- 🌱 I’m currently learning web scraping
+- 👀 I’m interested in Cyber Security, Automation and Web Development.
+- 🌱 I’m currently learning Cyber Security.
 - 📫 My Discord: AvNi#1531
 
 <!---
