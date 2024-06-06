@@ -1,3 +1,3 @@
 <h1 align="center">Hello!</h1>
 <h3 align="center"></h3>
-<script src="https://tryhackme.com/badge/2397024"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/avnii.png" alt="TryHackMe">
