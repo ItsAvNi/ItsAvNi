@@ -1,4 +1,3 @@
-<script src="https://tryhackme.com/badge/2397024"></script>
 - 👋 Hi, I’m @ItsAvNi
 - 👀 I’m interested in Cyber Security, Automation and Web Development.
 - 🌱 I’m currently learning Cyber Security.
